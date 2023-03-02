@@ -1,0 +1,13 @@
+a
+
+    vÛ6c•  ã                   @   s0   d Z ddlZddlmZ ej dd¡ eƒ ZdS )zÖ
+WSGI config for Django project.
+
+It exposes the WSGI callable as a module-level variable named ``application``.
+
+For more information on this file, see
+https://docs.djangoproject.com/en/4.1/howto/deployment/wsgi/
+é    N)Úget_wsgi_applicationÚDJANGO_SETTINGS_MODULEzDjango.settings)Ú__doc__ÚosÚdjango.core.wsgir   ÚenvironÚ
+setdefaultÚapplication© r
+   r
+   ú-C:\Users\PC\Desktop\SAD\Django\Django\wsgi.pyÚ<module>   s   	
